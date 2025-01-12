@@ -1,5 +1,8 @@
-# Personal-AI-MLClustering-Heierchical
-
+# Clustering
+# Part 1: K-Means Cluster on Avian Species
+See code for implementation.
+# Part 2: Heierchical Cluster on Avian Species
+See code for implementation.  More details shown below:
 This project attempts to utilize Agglomerative Heierchical Clustering to identity different bird groups based on bone structure.
 
 Full Dataset can be found here: https://www.kaggle.com/datasets/zhangjuefei/birds-bones-and-living-habits
