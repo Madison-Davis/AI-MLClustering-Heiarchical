@@ -1,6 +1,13 @@
 # Clustering
 # Part 1: K-Means Cluster on Avian Species
-See code for implementation.
+See code for implementation.  More details shown below:
+RFM Retail Customer Clustering
+Determine the "categories" or "clusters" of popular purchases that customers will make. Ultimately will help with determining business strategy and marketing.
+Results
+4 clusters appears to yield the best accuracy based on kmeans.inertia_
+Dataset
+https://www.kaggle.com/datasets/hellbuoy/online-retail-customer-clustering/code
+
 # Part 2: Heierchical Cluster on Avian Species
 See code for implementation.  More details shown below:
 This project attempts to utilize Agglomerative Heierchical Clustering to identity different bird groups based on bone structure.
