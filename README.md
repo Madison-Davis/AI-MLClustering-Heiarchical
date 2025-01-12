@@ -1,5 +1,5 @@
 # Clustering
-# Part 1: K-Means Cluster on Avian Species
+# Part 1: K-Means Cluster on RFM Retail Decisions
 See code for implementation.  More details shown below: </br>
 RFM Retail Customer Clustering </br>
 Determine the "categories" or "clusters" of popular purchases that customers will make. Ultimately will help with determining business strategy and marketing.
