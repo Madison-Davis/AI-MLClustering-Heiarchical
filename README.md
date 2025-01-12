@@ -1,7 +1,7 @@
 # Clustering
 # Part 1: K-Means Cluster on Avian Species
 See code for implementation.  More details shown below: </br>
-RFM Retail Customer Clustering
+RFM Retail Customer Clustering </br>
 Determine the "categories" or "clusters" of popular purchases that customers will make. Ultimately will help with determining business strategy and marketing.
 Results
 4 clusters appears to yield the best accuracy based on kmeans.inertia_
