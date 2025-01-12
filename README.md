@@ -34,3 +34,6 @@ Length and Diameter of Ulna
 Length and Diameter of Femur
 Length and Diameter of Tibiotarsus
 Length and Diameter of Tarsometatarsus
+
+# Part 3: EM Gaussian Mixtures Cluster on Random Data
+Play Around with Expectation Maximization (EM) for a random seed of data. In this example, 2 Gaussian Functions merged together were accurate enough to fully represent the random data seed.
